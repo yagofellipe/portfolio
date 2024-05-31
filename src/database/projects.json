@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "_id": "p005",
+      "_id": "p001",
       "name": "Personal Website",
       "imagePath": "img/projects/website.png",
       "tag": "app",
@@ -10,12 +10,20 @@
       "description": "Website"
     },
     {
-      "_id": "p004",
+      "_id": "p002",
       "name": "Microservices with Docker",
       "imagePath": "img/projects/microservice.png",
       "tag": "app",
       "gitHubURL": "https://github.com/yagofellipe/microsservice",
-      "description": "Aplicação de microserviços com Docker e kubernetes em Java e Spring Boot"
+      "description": "Microservices application with Docker and Kubernetes in Java and Spring Boot."
+    },
+    {
+      "_id": "p003",
+      "name": "CRUD with Spring Security and swagger",
+      "imagePath": "img/projects/CRUD_SECURITY.png",
+      "tag": "app",
+      "gitHubURL": "https://github.com/yagofellipe/CRUD_SECURITY_SWAGGER",
+      "description": "This project is a CRUD (Create, Read, Update, Delete) application built with Spring Boot, implementing authentication and authorization using Spring Security. The API documentation was generated using the Swagger library."
     }
   ]
 }
