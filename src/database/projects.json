@@ -28,7 +28,7 @@
     {
       "_id": "p004",
       "name": "APIRest with MongoDB",
-      "imagePath": "img/projects/API-MONGO.png",
+      "imagePath": "img/projects/API-MNGO.png",
       "tag": "app",
       "gitHubURL": "https://github.com/yagofellipe/workshopmongo",
       "description": "This project is a APIRest application built with Spring Boot, MongoDB, JPA, Hibernate, Lombok etc. The API documentation was generated using the Swagger library."
